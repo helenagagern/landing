@@ -1,0 +1,15 @@
+.btn-alo {
+  padding: 15px 25px;
+  font-weight: lighter;
+  border-radius: 10px;
+  border: 1px solid #999999;
+  color: #999999;
+  opacity: 0.6;
+  transition: 0.3s ease-in-out 0s;
+  display: inline-block;
+  margin: 10px;
+}
+
+.btn-alo:hover {
+    opacity: 1
+}
